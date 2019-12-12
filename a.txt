@@ -1,1 +1,10 @@
-ÅåÆæÒ²Ï²»¶´ó¿éÍ·£¬ºÙºÙ
+package com.zking.util
+
+
+public calss demo{
+
+public static void main(string[] arg){
+   System.out.print("");
+}
+
+}
