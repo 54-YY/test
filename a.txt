@@ -4,6 +4,7 @@ package com.zking.util
 public calss demo{
 
 public static void main(string[] arg){
+   int a = "≈Â∆Ê";
    System.out.print("");
 }
 
