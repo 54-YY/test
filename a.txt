@@ -4,7 +4,7 @@ package com.zking.util
 public calss demo{
 
 public static void main(string[] arg){
-   System.out.print("");
+   System.out.print("ÅåÆæÒ²Ï²»¶´ó¿éÍ·");
 }
 
 }
